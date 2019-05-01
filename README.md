@@ -1,9 +1,9 @@
 ![preview](./preview.png)
 
-## Thanos effect
+## Thanos Effect
 
 Applying Google thanos effect on Posty, [based on this article](https://redstapler.co/thanos-snap-effect-javascript-tutorial/).
 
-## Live Preview
+## Live Demo
 
 https://yaseralnajjar.github.io/thanos-effect/
